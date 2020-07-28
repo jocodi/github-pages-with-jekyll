@@ -1,13 +1,12 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# Mi repositiorio del GitHub Learning Lab para el uso de GitHub Pages
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+Bienvenido a **mi** repositorio para este curso. Este será el repositorio que se utilizará en las diferentes acitividades del curso. 
 
-Oh! I haven't introduced myself...
+Oh! no me he presentado! ...
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+Soy JCD y soy un principiante en esto el GitHub y estoy haciendo el curso de *mi primera semana en GitHub* para aprender a moverme por esta maravillosa plataforma.
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
